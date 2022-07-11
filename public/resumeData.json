@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name": "Vipul Arora",
+    "occupation": "(Your Occupation Here)",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "profilepic.jpg",
+    "bio": "I am an athlete at heart, with an entrepreneurial spirit, a knack for designing, and a passion for coding. Born in a small town in Hanumangarh Jn, I love to create and tend to keep a few too many projects on the go at a time. Outside of work I am an avid motorcyclist and chess player. I love to travel and lead a fairly nomadic lifestyle.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "vipulpiplani3113@gmail.com",
+    "phone": "82093-61424",
+    "address": {
+      "city": "Hanumangarh Jn, ",
+      "state": "Rajasthan",
+      "zip": "335512"
+    },
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ar0ravipul",
+        "className": "fa fa-facebook"
+      },
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vipul-arora-a2405a1ba/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ar0ravipul/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ar0ravipul",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Jaypee University Of Information Technology",
+        "degree": "Bachelor of Technology",
+        "graduated": "2020 - 2024",
+        "description": "Computer Science Engineering , Consistent 8.7 CGPA, IEEE JUIT SB(MEMBER), Angular Course Completion, Infosys | Springboard."},
+      {
+        "school": "DAV CENTENARY PUBLIC SCHOOL",
+        "degree": "Academic Excellence English and Mathematic",
+        "graduated": "2016 - 2020",
+        "description": "Won Best Science Fair Project, 86.8% in 12th, Gold medalist in athletics, IMO Gold Medalist at School level."
+      }
+    ],
+    "work": [
+      {
+        "company": "RENEGADE ISLAND PRISON",
+        "title": "Made using Unity.",
+        "years": "April 2021",
+        "description": "The game is about a prisoner stuck on a maverick island. The game is intended to think carefully and test your gaming abilities."
+      },
+      {
+        "company": "REMED",
+        "title": "Made with Python, using Django framework",
+        "years": "May 2021",
+        "description": "A web application that will provide easy access to medical resources. Providing the users organized and genuine data."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "65%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Figma",
+        "level": "70%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Life is what happens when you're busy making other plans.",
+        "user": "Virgil"
+      },
+      {
+        "text": "When life gives you lemons, make lemonade.",
+        "user": "Elbert Hubbard"
+      }
+    ]
+  }
+}
